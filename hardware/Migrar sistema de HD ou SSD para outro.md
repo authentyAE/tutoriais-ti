@@ -29,7 +29,7 @@ Este tutorial vai te ensinar como substituir o SSD do seu PC por um de maior cap
 - **Anote a posição dos cabos** antes de desconectar, se você não tiver familiaridade com isso
 
 
-
+---
 
 ## 🔧 Método 1 (EM OUTRO PC): Migração com Ambos os SSDs Conectados
 
@@ -79,7 +79,7 @@ Este tutorial vai te ensinar como substituir o SSD do seu PC por um de maior cap
 5. **Salve e saia** (F10)
 
 
-
+---
 
 ## 🔧 Método 2 (EM OUTRO PC): Migração com Adaptador USB
 
@@ -104,7 +104,10 @@ Este tutorial vai te ensinar como substituir o SSD do seu PC por um de maior cap
 3. **Instale o SSD novo** no local do antigo
 4. **Feche o gabinete**
 
-## � Método 3: Migração com Clonezilla (Live Boot)
+
+---
+
+## 🔧 Método 3: Migração com Clonezilla (Live Boot)
 
 ### Quando usar
 - Para máxima compatibilidade e controle
@@ -187,6 +190,7 @@ ocs-sr -q2 -c -j2 -z1p -i 4096 -sfsck -scs -k1 -p choose savedisk save_name sda
 ```
 
 
+---
 
 ## 🔍 Verificações Pós-Migração
 
@@ -212,6 +216,7 @@ ocs-sr -q2 -c -j2 -z1p -i 4096 -sfsck -scs -k1 -p choose savedisk save_name sda
 
 
 
+---
 
 ## 🛠️ Solução de Problemas Comuns
 
