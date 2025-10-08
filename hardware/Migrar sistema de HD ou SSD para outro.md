@@ -1,4 +1,4 @@
-# Tutorial: Como Trocar o SSD por um Maior com Migração de Dados
+# Tutorial: Como Trocar o HD ou SSD por outro Igual ou Maior com Migração de Dados
 
 Este tutorial vai te ensinar como substituir o SSD do seu PC por um de maior capacidade, mantendo todos os seus dados, programas e sistema operacional intactos.
 
