@@ -1,4 +1,4 @@
-# Instalação do Authenty Passwords
+# Instalação do Authenty Passwords (gerenciador de senhas)
 
 ```
 ⚠️ O instalador não está disponível na internet nem no repositório aberto da Authenty por motivos de segurança.
