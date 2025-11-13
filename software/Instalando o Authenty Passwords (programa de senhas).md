@@ -13,6 +13,12 @@ O Instalador está salvo **criptografado** nos drives compartilhados da empresa,
 Drives Compartilhados/Authenty - TI/PROGRAMAS_FERRAMENTAS/windows/programas_instaladores/Authenty Passwords/WINDOWS - Authenty Passwords.7z
 ```
 
+ou (via Windows FTP, na rede interna)
+
+```
+\\MDCSERVER\PROGRAMAS_FERRAMENTAS\windows\programas_instaladores\Authenty Passwords\WINDOWS - Authenty Passwords.7z
+```
+
 ## Como Extrair e instalar
 
 Seu computador precisa ter o *7Zip* instalado (e que normalmente já está em todas as máquinas).
