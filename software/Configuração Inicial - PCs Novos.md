@@ -70,6 +70,12 @@ Todos os instaladores estão disponíveis em `\\mdcserver\programas_ferramentas\
   - [ ] PCalc 1.4
   - [ ] SECC-1.0.0
 
+Existem outros softwares que PODEM ser instalados, mas **SOMENTE COM ORDEM EXPRESSA** para tal.
+
+- [ ] TQS 18
+  - `⚠️ Atenção! A Instalação deste NÃO PODE SER FEITA EM CONJUNTO COM O SCIA`
+- [ ] TQS 25
+- [ ] Advance Stell
 
 ---
 
