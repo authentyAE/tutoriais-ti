@@ -29,7 +29,7 @@ Este arquivo contem os passos para a configuração inicial do Windows nos compu
   - [ ] Authenty Passwords - [instalação conforme tutorial](./Instalando%20o%20Authenty%20Passwords%20(programa%20de%20senhas).md)
   - [ ] Python
   - [ ] Java Runtime
-  - [ ] Foxit PDF Reader
+  - [ ] Adobe Acrobat Reader
     - NÃO instalar teste de 30 dias
     - NÃO instalar extensão de navegador nem nada adicional
   - [ ] Space Sniffer (Colar executável direto em `C:\Users\Public\Desktop`)
@@ -57,6 +57,7 @@ Todos os instaladores estão disponíveis em `\\mdcserver\programas_ferramentas\
 - **Scia Engineer** (tutorial de instalação junto com o instalador no `\\mdcserver`)
   - [ ] v 26
   - [ ] v 22.1.1025.64
+  - `Ativar funcionalidade de limpeza automática dos Backups`
 - **Allplan** (tutorial de instalação junto com o instalador no `\\mdcserver`)
   - [ ] v 26-0-1
   - [ ] v 21-1-21
@@ -76,6 +77,8 @@ Existem outros softwares que PODEM ser instalados, mas **SOMENTE COM ORDEM EXPRE
   - `⚠️ Atenção! A Instalação deste NÃO PODE SER FEITA EM CONJUNTO COM O SCIA`
 - [ ] TQS 25
 - [ ] Advance Stell
+- [ ] AutoCad
+- [ ] Revit
 
 ---
 
