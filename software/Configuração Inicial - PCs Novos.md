@@ -56,11 +56,11 @@ Todos os instaladores estão disponíveis em `\\mdcserver\programas_ferramentas\
 
 - **Scia Engineer** (tutorial de instalação junto com o instalador no `\\mdcserver`)
   - [ ] v 26
-  - [ ] v 22.1.1025.64
+  - [ ] v 22.1.3016
   - `Ativar funcionalidade de limpeza automática dos Backups`
 - **Allplan** (tutorial de instalação junto com o instalador no `\\mdcserver`)
   - [ ] v 26-0-1
-  - [ ] v 21-1-21
+  - [ ] v 21-1-21 (Instalado o 21-1-19 e atualizado)
   - `⚠️ ATENÇÃO! Não seguir as orientações da instalação podem causar sobrescrita de informações no servidor!!!`
 - [ ] **SketchUp 2019 PRO** (Não ativar o produto. Só é ativado quando usado)
 - [ ] **ZWCad** (Orientações sobre licença flutuante com o instalador em `\\mdcserver`)
